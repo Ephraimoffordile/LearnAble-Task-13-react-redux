@@ -1,0 +1,33 @@
+.user-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-name {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.user-details {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.view-details-link,
+.edit-link {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.view-details-link {
+    color: blue;
+}
+
+.edit-link {
+    color: green;
+}
